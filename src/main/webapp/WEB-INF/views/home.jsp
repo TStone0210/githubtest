@@ -9,5 +9,7 @@
 <body>
 	<h1>HOME</h1>
 	<!-- hi -->
+	
+	Commit Test
 </body>
 </html>
